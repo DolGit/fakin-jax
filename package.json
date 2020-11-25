@@ -1,5 +1,5 @@
 {
-  "name": "@dolnpm/fake-webpack-context-for-testing",
+  "name": "@dolnpm/fakin-jax",
   "version": "0.1.1-development",
   "description": "Fakes webpacks context",
   "browser": "lib/index.js",
